@@ -136,21 +136,21 @@ created_at
 ## Development Schedule
 
 ### Day 1: Setup & Database
-- [ ] Configure Supabase connection
-- [ ] Create 6 migrations
-- [ ] Create 6 models with relationships
-- [ ] Create BelongsToStore trait
-- [ ] Modify registration to create store
+- [x] Configure Supabase connection
+- [x] Create 6 migrations
+- [x] Create 6 models with relationships
+- [x] Create BelongsToStore trait
+- [x] Modify registration to create store
 
 ### Day 2: Layout & Dashboard
-- [ ] Create sidebar layout
-- [ ] Build dashboard page with stats
-- [ ] Add navigation
+- [x] Create sidebar layout
+- [x] Build dashboard page with stats
+- [x] Add navigation
 
 ### Day 3: Products & Categories
-- [ ] Categories CRUD (with modal)
-- [ ] Products CRUD (full pages)
-- [ ] Product search
+- [x] Categories CRUD (with modal)
+- [x] Products CRUD (full pages)
+- [x] Product search
 
 ### Day 4: POS Interface
 - [ ] POS layout (products grid + cart)
